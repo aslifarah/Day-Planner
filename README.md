@@ -28,7 +28,7 @@ This application is a simple calander that allows the user to save events for ea
 
 **Asli Farah**
 - [Link to Github](https://github.com/aslifarah/Day-Planner)
-- [Portfolio](https://cmelby.github.io/portfolio/)
+- [Portfolio](https://github.com/aslifarah)
 
 
 
